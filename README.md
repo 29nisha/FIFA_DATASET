@@ -1,16 +1,16 @@
 # FIFA_DATASET
 ![image](https://github.com/user-attachments/assets/a793441f-760e-4c86-b964-b039b4ffb806)
 
-✍**Overview :**
+**✍Overview :**
 
 This project involves analyzing a FIFA dataset using SQL. The goal is to extract meaningful insights from the dataset through various SQL queries.
 
-✍**Files in the Repository :**
+**✍Files in the Repository :**
 
 .  Fifa_sql_project.pdf: A detailed report of the project, including the SQL queries used and the insights gained.
 .  README.md: This file, which contains information about the project.
 
-✍**Project Details:**
+**✍Project Details:**
 
  ✔ Dataset
   
@@ -36,7 +36,7 @@ The detailed analysis report is provided in the Fifa_sql_project.pdf file. This 
 .  Insights and conclusions drawn from the analysis
 
 
-✍**How to Use:**
+**✍How to Use:**
 
 
 1. Clone the Repository: Clone this repository to your local machine using the command:
@@ -46,3 +46,9 @@ The detailed analysis report is provided in the Fifa_sql_project.pdf file. This 
 3. Run the SQL Script: Execute the fifa_sql_project.sql script in your SQL database management system to run the queries.
 
 4. Analyze the Results: Review the Fifa_sql_project.pdf file to understand the insights and conclusions drawn from the analysis.
+
+**😊 Created By :**
+   
+NISHA PRASAD
+
+(Data Analyst)
