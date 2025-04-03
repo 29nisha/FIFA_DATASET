@@ -11,11 +11,13 @@ This project involves analyzing a FIFA dataset using SQL. The goal is to extract
 . README.md: This file, which contains information about the project.
 
 ✍**Project Details**
+
  ✔ -Dataset
   
 The dataset used in this project is stored in the goal_data.csv file. It contains various attributes of FIFA players and their performance statistics.
 
 ✔-SQL Queries
+
 The SQL queries used to analyze the dataset are stored in the fifa_sql_project.sql file. These queries cover various aspects of the dataset, including:
 
 . Player performance statistics
@@ -35,7 +37,11 @@ The detailed analysis report is provided in the Fifa_sql_project.pdf file. This 
 ✍**How to Use**
 
 1.Clone the Repository: Clone this repository to your local machine using the command:
+
 2.git clone https://github.com/drahulsingh/Fifa-Dataset-SQL-Data-Analysis.git
+
 3.Set Up the Database: Use a SQL database management system (e.g., MySQL, PostgreSQL) to set up the database. Import the goal_data.csv file into your database.
+
 4.Run the SQL Script: Execute the fifa_sql_project.sql script in your SQL database management system to run the queries.
+
 5.Analyze the Results: Review the Fifa_sql_project.pdf file to understand the insights and conclusions drawn from the analysis.
