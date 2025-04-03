@@ -41,10 +41,8 @@ The detailed analysis report is provided in the Fifa_sql_project.pdf file. This 
 
 1. Clone the Repository: Clone this repository to your local machine using the command:
 
-2. git clone https://github.com/drahulsingh/Fifa-Dataset-SQL-Data-Analysis.git
+2. Set Up the Database: Use a SQL database management system to set up the database. Import the goal_data.csv file into your database.   
 
-3. Set Up the Database: Use a SQL database management system (e.g., MySQL, PostgreSQL) to set up the database. Import the goal_data.csv file into your database.
+3. Run the SQL Script: Execute the fifa_sql_project.sql script in your SQL database management system to run the queries.
 
-4. Run the SQL Script: Execute the fifa_sql_project.sql script in your SQL database management system to run the queries.
-
-5. Analyze the Results: Review the Fifa_sql_project.pdf file to understand the insights and conclusions drawn from the analysis.
+4. Analyze the Results: Review the Fifa_sql_project.pdf file to understand the insights and conclusions drawn from the analysis.
