@@ -34,7 +34,10 @@ The detailed analysis report is provided in the Fifa_sql_project.pdf file. This 
 .  A description of the dataset
 .  The SQL queries used for the analysis
 .  Insights and conclusions drawn from the analysis
+
+
 ✍**How to Use**
+
 
 1. Clone the Repository: Clone this repository to your local machine using the command:
 
