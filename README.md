@@ -7,41 +7,41 @@ This project involves analyzing a FIFA dataset using SQL. The goal is to extract
 
 ✍**Files in the Repository**
 
-. Fifa_sql_project.pdf: A detailed report of the project, including the SQL queries used and the insights gained.
-. README.md: This file, which contains information about the project.
+.  Fifa_sql_project.pdf: A detailed report of the project, including the SQL queries used and the insights gained.
+.  README.md: This file, which contains information about the project.
 
 ✍**Project Details**
 
- ✔ -Dataset
+ ✔ Dataset
   
 The dataset used in this project is stored in the goal_data.csv file. It contains various attributes of FIFA players and their performance statistics.
 
-✔-SQL Queries
+✔SQL Queries
 
 The SQL queries used to analyze the dataset are stored in the fifa_sql_project.sql file. These queries cover various aspects of the dataset, including:
 
-. Player performance statistics
-. Team statistics
-. Comparisons between different players and teams
-. Aggregated statistics for specific attributes
+.  Player performance statistics
+.  Team statistics
+.  Comparisons between different players and teams
+.  Aggregated statistics for specific attributes
 
 
-✔-Analysis Report
+✔Analysis Report
 
 The detailed analysis report is provided in the Fifa_sql_project.pdf file. This report includes:
 
-. An introduction to the project
-. A description of the dataset
-. The SQL queries used for the analysis
-. Insights and conclusions drawn from the analysis
+.  An introduction to the project
+.  A description of the dataset
+.  The SQL queries used for the analysis
+.  Insights and conclusions drawn from the analysis
 ✍**How to Use**
 
-1.Clone the Repository: Clone this repository to your local machine using the command:
+1. Clone the Repository: Clone this repository to your local machine using the command:
 
-2.git clone https://github.com/drahulsingh/Fifa-Dataset-SQL-Data-Analysis.git
+2. git clone https://github.com/drahulsingh/Fifa-Dataset-SQL-Data-Analysis.git
 
-3.Set Up the Database: Use a SQL database management system (e.g., MySQL, PostgreSQL) to set up the database. Import the goal_data.csv file into your database.
+3. Set Up the Database: Use a SQL database management system (e.g., MySQL, PostgreSQL) to set up the database. Import the goal_data.csv file into your database.
 
-4.Run the SQL Script: Execute the fifa_sql_project.sql script in your SQL database management system to run the queries.
+4. Run the SQL Script: Execute the fifa_sql_project.sql script in your SQL database management system to run the queries.
 
-5.Analyze the Results: Review the Fifa_sql_project.pdf file to understand the insights and conclusions drawn from the analysis.
+5. Analyze the Results: Review the Fifa_sql_project.pdf file to understand the insights and conclusions drawn from the analysis.
